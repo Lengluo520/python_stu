@@ -1,0 +1,6 @@
+print('jack\t20')
+print('Hello,jack\nhello,tom')
+print('D:\python\\chapter02')
+print('杨过说：\"小龙女你嫁给我把\"')
+print('杨过说：\'小龙女你嫁给我把\'')
+print("段誉向西行，\r他虽然不会武功")
